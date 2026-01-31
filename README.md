@@ -1,2 +1,2 @@
 # Python-Project
-opencv and image processing poc
+opencv and image processing - poc
